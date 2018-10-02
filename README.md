@@ -1,1 +1,1 @@
-// This is my Learn Enough To Be Dangerous javaScript tutorial exercise folder
+// This is my Learn Enough to be Dangerous javaScript tutorial
